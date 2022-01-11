@@ -41,3 +41,5 @@ That side of DNS is what this guide is all about.
         - Now edit the DNS so that whenever someone goes to example YYYY.com it will point to your server.
         - Also make it work so that whenever someone enters demo.YYYY.com it will go to tskoli.is pages.
         - Now take a screenshot of this and push the image to a repository you make.
+
+![Configuring DNS servers](https://user-images.githubusercontent.com/89387153/148975572-5cc6cff9-3244-4ba7-b070-69b3f3a844cc.png)
